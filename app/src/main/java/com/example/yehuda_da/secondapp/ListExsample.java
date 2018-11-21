@@ -32,6 +32,5 @@ public class ListExsample extends AppCompatActivity {
 
         StudentsAddapter adapter = new StudentsAddapter(students);
         student.setAdapter(adapter);
-
     }
 }
