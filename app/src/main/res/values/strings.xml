@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SecondApp</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+
+    <string-array name="students">
+        <item>Moshe</item>
+        <item>David</item>
+        <item>Haim</item>
+        <item>Ari</item>
+    </string-array>
+</resources>
